@@ -1,0 +1,19 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.numFields {
+    display: flex;
+    align-items: center;
+}
+
+.numDisplay {
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    height: 20px;
+    width: 120px;
+    background: rgb(187, 217, 239);
+    outline: 1px solid black;
+    margin: 20px;
+}
